@@ -5,9 +5,6 @@ out/
 # Dependencies
 node_modules/
 
-# Large frame images (360 JPGs — too big for GitHub)
-public/frames/
-
 # Env files
 .env
 .env.local
